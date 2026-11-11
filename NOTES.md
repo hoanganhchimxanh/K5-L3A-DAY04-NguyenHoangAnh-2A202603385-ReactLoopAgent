@@ -1,7 +1,7 @@
 # Ghi chú phân tích · Day 04
 
-Họ và tên:
-MSSV:
+Họ và tên: Nguyễn Hoàng Anh
+MSSV: 2A202603385
 
 ## 1. Case được chọn
 
